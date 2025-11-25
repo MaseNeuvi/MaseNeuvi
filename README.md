@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello ! Call me Mase!
+
+<img width="667" height="554" alt="image" src="https://github.com/user-attachments/assets/fd5dbd87-3f2a-4dca-ac3e-e3918db5de75" />
+
 
 <!--
 **MaseNeuvi/MaseNeuvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
