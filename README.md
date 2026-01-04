@@ -1,6 +1,14 @@
 ## Hello ! Call me Mase!
+      Don't mind me! Just passing by
 
-<img width="667" height="554" alt="image" src="https://github.com/user-attachments/assets/fd5dbd87-3f2a-4dca-ac3e-e3918db5de75" />
+
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ae2680ea-802e-4acc-8c47-50e98149e787" />
+
+
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/0d14fded-31a2-4c79-9a21-d67b6de4be53" />
+
+
+
 
 
 <!--
